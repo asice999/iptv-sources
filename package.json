@@ -46,7 +46,8 @@
     "tsx": "^4.21.0",
     "typescript": "5.5.4",
     "typescript-eslint": "^8.15.0",
-    "vitest": "^2.1.0"
+    "vitest": "^2.1.0",
+    "wrangler": "^4.100.0"
   },
   "dependencies": {
     "@whyun/tv-tools": "^0.1.4",
